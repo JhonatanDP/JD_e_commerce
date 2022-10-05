@@ -2,8 +2,7 @@
 
 Project Repository address: https://github.com/JhonatanDP/JD_e_commerce
 
-Project walkthrough video:
-https://user-images.githubusercontent.com/106892660/193156363-2610390c-24fb-419a-a2e0-c35f51a443a5.mp4
+Project walkthrough video:https://drive.google.com/file/d/1_FeHxG8z56tp-TaT61CSB0ZKkGj_Rxy_/view?usp=sharing
 
 
 ## User Story
